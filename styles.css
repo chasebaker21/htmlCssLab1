@@ -85,10 +85,6 @@ p {
 
 @media only screen and (min-width: 768px) {
 
-    /* body {
-        font-size: larger;
-    } */
-
     ul {
         display: flex;
         justify-content: flex-end;
@@ -103,7 +99,6 @@ p {
         margin-right: 20px;
         height: 10px;
         padding-bottom: 20px;
-        /* font-size: medium; */
         
     }
 
